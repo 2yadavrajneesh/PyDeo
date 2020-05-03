@@ -2,9 +2,9 @@
  Cloning Person behaviour from video to a new Avatar
  
  
- # Requirements
- *tqdm
- *numpy
- *tensorflow_gpu
- *opencv_python
- *tensorflow
+ ### Requirements
+ tqdm
+ numpy
+ tensorflow_gpu
+ opencv_python
+ tensorflow
