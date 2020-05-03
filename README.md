@@ -3,8 +3,8 @@
  
  
  ### Requirements
- tqdm
- numpy
- tensorflow_gpu
- opencv_python
- tensorflow
+ tqdm,
+ Numpy,
+ Tensorflow_GPU,
+ OpenCV,
+ Tensorflow,
