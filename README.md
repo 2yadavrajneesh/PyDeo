@@ -2,7 +2,7 @@
  Cloning Person behaviour from video to a new Avatar. Recognizes the facial emotion and overlays emoji, equivalent to the emotion, on the persons face.
  
  
- ### Requirements
+ ## Requirements
  tqdm,
  Numpy,
  Tensorflow_GPU,
